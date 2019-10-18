@@ -1,5 +1,7 @@
 {
   "name": "tempointsApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
